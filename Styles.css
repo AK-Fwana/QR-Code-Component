@@ -75,7 +75,7 @@ footer.attribution {
   color: hsl(228, 45%, 44%);
 }
 
-/* 🌐 Responsive Breakpoints */
+/*  Responsive Breakpoints */
 @media (min-width: 768px) {
   main {
     max-width: 600px;
