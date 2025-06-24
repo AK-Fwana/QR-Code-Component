@@ -95,6 +95,6 @@ footer.attribution {
 
 @media (min-width: 64em) {
   main {
-    max-width: 800px;
+    max-width: 50rem;
   }
 }
