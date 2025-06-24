@@ -56,7 +56,7 @@ main {
 }
 
 .card p {
-  margin-top: 1rem;
+  margin-block-start: 1rem;
   color: hsl(220, 15%, 55%);
 }
 
