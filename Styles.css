@@ -176,7 +176,7 @@ footer.attribution {
 }
 
 /*  Responsive Breakpoints */
-@media (min-width: 768px) {
+@media (min-width: 48em) {
   main {
     max-width: 600px;
   }
