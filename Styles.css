@@ -45,7 +45,7 @@ main {
   width: 100%;
   text-align: center;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-  margin-bottom: 1.25rem;
+  margin-block-end: 1.25rem;
 }
 
 .card img {
